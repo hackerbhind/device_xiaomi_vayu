@@ -27,7 +27,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=vayu_global \
     PRODUCT_MODEL=M2102J20SG
 
-BUILD_FINGERPRINT := POCO/vayu_global/vayu:13/RKQ1.200826.002/V14.0.3.0.TJUMIXM:user/release-keys
+BUILD_FINGERPRINT := Xiaomi/vayu_global/vayu:13/RKQ1.200826.002/V14.0.3.0.TJUMIXM:user/release-keys
 
 # ArrowOS additions
 DEVICE_MAINTAINER := K001droid and raghavt20
