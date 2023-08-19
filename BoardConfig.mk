@@ -51,6 +51,11 @@ TARGET_DISABLED_UBWC := true
 
 # Camera
 TARGET_USES_QTI_CAMERA_DEVICE := true
+USE_DEVICE_SPECIFIC_CAMERA := true
+
+# Memory Allocator
+MALLOC_SVELTE := true
+MALLOC_SVELTE_FOR_LIBC32 := true
 
 # Filesystem
 TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/configs/config.fs
